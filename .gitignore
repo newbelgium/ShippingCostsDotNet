@@ -51,3 +51,4 @@ _ReSharper.*
 *.DotSettings.user
 [Tt]est[Rr]esult*
 *.sass-cache
+/.vs/DotNetShipping/v15/Server/sqlite3
