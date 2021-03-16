@@ -7,8 +7,8 @@
     <ProjectGuid>{EC384B8A-DB3C-4225-8E79-C0FA4CDF3D05}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DotNetShipping.Tests</RootNamespace>
-    <AssemblyName>DotNetShipping.Tests</AssemblyName>
+    <RootNamespace>ShippingProviderCostHelper.Tests</RootNamespace>
+    <AssemblyName>ShippingProviderCostHelper.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
@@ -75,7 +75,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\DotNetShipping\ShippingProviderCostHelper.csproj">
+    <ProjectReference Include="..\ShippingProviderCostHelper\ShippingProviderCostHelper.csproj">
       <Project>{0cac6d52-ffa9-4350-8e36-a22a2a4a8b88}</Project>
       <Name>ShippingProviderCostHelper</Name>
     </ProjectReference>
