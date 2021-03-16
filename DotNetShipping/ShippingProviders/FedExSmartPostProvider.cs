@@ -1,13 +1,11 @@
-﻿using System;
+﻿using ShippingProviderCostHelper.Helpers.Extensions;
+using ShippingProviderCostHelper.RateServiceWebReference;
+using ShippingProviderCostHelper.ShippingProviders;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Text;
 
-using DotNetShipping.Helpers.Extensions;
-using DotNetShipping.RateServiceWebReference;
-
-namespace DotNetShipping.ShippingProviders
+namespace ShippingProviderCostHelper.Providers
 {
     /// <summary>
     ///     Provides SmartPost rates (only) from FedEx (Federal Express).

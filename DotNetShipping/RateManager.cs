@@ -1,10 +1,9 @@
+using ShippingProviderCostHelper.Providers;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 
-using DotNetShipping.ShippingProviders;
-
-namespace DotNetShipping
+namespace ShippingProviderCostHelper
 {
     /// <summary>
     ///     Responsible for coordinating the retrieval of rates from the specified providers for a specified shipment.

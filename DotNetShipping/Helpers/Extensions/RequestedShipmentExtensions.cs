@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using DotNetShipping.RateServiceWebReference;
+using ShippingProviderCostHelper.RateServiceWebReference;
 
-namespace DotNetShipping.Helpers.Extensions
+namespace ShippingProviderCostHelper.Helpers.Extensions
 {
     /// <summary>
     /// Extension methods for RequestedShipment

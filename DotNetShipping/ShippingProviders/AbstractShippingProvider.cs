@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace DotNetShipping.ShippingProviders
+namespace ShippingProviderCostHelper.Providers
 {
     /// <summary>
     ///     A base implementation of the <see cref="IShippingProvider" /> interface.

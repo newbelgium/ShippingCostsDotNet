@@ -1,6 +1,6 @@
 using System;
 
-namespace DotNetShipping
+namespace ShippingProviderCostHelper
 {
     /// <summary>
     ///     Summary description for Package.

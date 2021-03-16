@@ -1,4 +1,4 @@
-namespace DotNetShipping.SampleApp
+namespace ShippingProviderCostHelper.SampleApp
 {
     public class PercentageRateAdjuster : IRateAdjuster
     {

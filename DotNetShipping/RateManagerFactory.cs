@@ -1,10 +1,9 @@
-﻿using System;
+﻿using ShippingProviderCostHelper.Providers;
+using System;
 using System.Linq;
 using System.Reflection;
 
-using DotNetShipping.ShippingProviders;
-
-namespace DotNetShipping
+namespace ShippingProviderCostHelper
 {
     public class RateManagerFactory
     {

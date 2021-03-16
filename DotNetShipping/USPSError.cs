@@ -1,4 +1,4 @@
-﻿namespace DotNetShipping
+﻿namespace ShippingProviderCostHelper
 {
     public class USPSError
     {

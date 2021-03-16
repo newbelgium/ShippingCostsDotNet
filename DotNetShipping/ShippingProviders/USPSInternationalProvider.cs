@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace DotNetShipping.ShippingProviders
+namespace ShippingProviderCostHelper.Providers
 {
     /// <summary>
     /// </summary>

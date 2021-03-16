@@ -1,13 +1,12 @@
+using ShippingProviderCostHelper.Providers;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Diagnostics;
 using System.Linq;
 
-using DotNetShipping.ShippingProviders;
-
 using Xunit;
 
-namespace DotNetShipping.Tests.Features
+namespace ShippingProviderCostHelper.Tests.Features
 {
     public class USPSInternationalRates
     {

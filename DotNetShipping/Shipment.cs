@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace DotNetShipping
+namespace ShippingProviderCostHelper
 {
     /// <summary>
     ///     Summary description for Shipment.

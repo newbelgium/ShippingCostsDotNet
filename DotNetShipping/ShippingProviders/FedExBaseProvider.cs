@@ -1,14 +1,13 @@
-﻿using System;
+﻿using ShippingProviderCostHelper.Providers;
+using ShippingProviderCostHelper.RateServiceWebReference;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
 using System.Web.Services.Protocols;
 
-using DotNetShipping.RateServiceWebReference;
-
-namespace DotNetShipping.ShippingProviders
+namespace ShippingProviderCostHelper.ShippingProviders
 {
     public abstract class FedExBaseProvider : AbstractShippingProvider
     {
