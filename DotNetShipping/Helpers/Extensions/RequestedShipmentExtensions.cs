@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 using ShippingProviderCostHelper.RateServiceWebReference;
 
 namespace ShippingProviderCostHelper.Helpers.Extensions
