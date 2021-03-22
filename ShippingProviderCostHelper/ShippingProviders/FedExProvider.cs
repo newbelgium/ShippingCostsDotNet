@@ -1,10 +1,10 @@
-using ShippingProviderCostHelper.RateServiceWebReference;
-using ShippingProviderCostHelper.ShippingProviders;
+using ShippingCostsDotNet.RateServiceWebReference;
+using ShippingCostsDotNet.ShippingProviders;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace ShippingProviderCostHelper.Providers
+namespace ShippingCostsDotNet.Providers
 {
     /// <summary>
     ///     Provides rates from FedEx (Federal Express) excluding SmartPost. Please use <see cref="FedExSmartPostProvider"/> for SmartPost rates.

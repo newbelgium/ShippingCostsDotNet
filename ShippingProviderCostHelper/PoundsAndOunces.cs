@@ -1,4 +1,4 @@
-﻿namespace ShippingProviderCostHelper
+﻿namespace ShippingCostsDotNet
 {
     /// <summary>
     ///     Pounds and ounces are used for the USPS provider.

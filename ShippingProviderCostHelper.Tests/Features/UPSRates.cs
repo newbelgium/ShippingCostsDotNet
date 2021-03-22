@@ -1,10 +1,10 @@
-using ShippingProviderCostHelper.Providers;
+using ShippingCostsDotNet.Providers;
 using System.Configuration;
 using System.Diagnostics;
 using System.Linq;
 using Xunit;
 
-namespace ShippingProviderCostHelper.Tests.Features
+namespace ShippingCostsDotNet.Tests.Features
 {
     public class UPSRates
     {

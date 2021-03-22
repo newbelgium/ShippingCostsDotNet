@@ -1,4 +1,4 @@
-namespace ShippingProviderCostHelper
+namespace ShippingCostsDotNet
 {
     public interface IRateAdjuster
     {

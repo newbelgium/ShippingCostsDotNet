@@ -1,7 +1,7 @@
 ﻿
-using ShippingProviderCostHelper.RateServiceWebReference;
+using ShippingCostsDotNet.RateServiceWebReference;
 
-namespace ShippingProviderCostHelper.Helpers.Extensions
+namespace ShippingCostsDotNet.Helpers.Extensions
 {
     /// <summary>
     /// Extension methods for RequestedShipment

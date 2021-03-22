@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace ShippingProviderCostHelper
+namespace ShippingCostsDotNet
 {
     public static class Extensions
     {

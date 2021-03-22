@@ -13,7 +13,7 @@
 // 
 #pragma warning disable 1591
 
-namespace ShippingProviderCostHelper.RateServiceWebReference {
+namespace ShippingCostsDotNet.RateServiceWebReference {
     using System;
     using System.Web.Services;
     using System.Diagnostics;
@@ -35,7 +35,7 @@ namespace ShippingProviderCostHelper.RateServiceWebReference {
         
         /// <remarks/>
         public RateService() {
-            this.Url = global::ShippingProviderCostHelper.Properties.Settings.Default.ShippingProviderCostHelper_RateServiceWebReference_RateService;
+            this.Url = global::ShippingCostsDotNet.Properties.Settings.Default.ShippingCostsDotNet_RateServiceWebReference_RateService;
             if ((this.IsLocalFileSystemWebService(this.Url) == true)) {
                 this.UseDefaultCredentials = true;
                 this.useDefaultCredentialsSetExplicitly = false;

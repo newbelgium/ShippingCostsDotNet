@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ShippingProviderCostHelper.Properties {
+namespace ShippingCostsDotNet.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -27,10 +27,10 @@ namespace ShippingProviderCostHelper.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
         [global::System.Configuration.DefaultSettingValueAttribute("https://wsbeta.fedex.com:443/web-services/rate")]
-        public string ShippingProviderCostHelper_RateServiceWebReference_RateService
+        public string ShippingCostsDotNet_RateServiceWebReference_RateService
         {
             get {
-                return ((string)(this["ShippingProviderCostHelper_RateServiceWebReference_RateService"]));
+                return ((string)(this["ShippingCostsDotNet_RateServiceWebReference_RateService"]));
             }
         }
     }

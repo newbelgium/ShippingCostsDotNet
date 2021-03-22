@@ -1,10 +1,10 @@
-﻿using ShippingProviderCostHelper.Providers;
+﻿using ShippingCostsDotNet.Providers;
 using System;
 using System.Configuration;
 using System.Linq;
 using Xunit;
 
-namespace ShippingProviderCostHelper.Tests.Features
+namespace ShippingCostsDotNet.Tests.Features
 {
     public abstract class FedExSmartPostShipRatesTestsBase : IDisposable
     {

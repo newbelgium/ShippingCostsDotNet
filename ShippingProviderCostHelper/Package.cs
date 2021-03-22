@@ -1,6 +1,6 @@
 using System;
 
-namespace ShippingProviderCostHelper
+namespace ShippingCostsDotNet
 {
     /// <summary>
     ///     Summary description for Package.

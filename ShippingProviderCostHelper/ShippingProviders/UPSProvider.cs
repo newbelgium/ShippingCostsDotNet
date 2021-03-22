@@ -9,7 +9,7 @@ using System.Xml;
 using System.Xml.Linq;
 using System.Xml.XPath;
 
-namespace ShippingProviderCostHelper.Providers
+namespace ShippingCostsDotNet.Providers
 {
     /// <summary>
     ///     Provides rates from UPS (United Parcel Service).

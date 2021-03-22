@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace ShippingProviderCostHelper.Tests.Units
+namespace ShippingCostsDotNet.Tests.Units
 {
     public class PackageTests
     {

@@ -1,9 +1,9 @@
-using ShippingProviderCostHelper.Providers;
+using ShippingCostsDotNet.Providers;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace ShippingProviderCostHelper.SampleApp
+namespace ShippingCostsDotNet.SampleApp
 {
     internal class Program
     {
