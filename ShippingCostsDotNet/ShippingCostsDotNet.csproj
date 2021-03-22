@@ -8,8 +8,8 @@
     <ProjectGuid>{0CAC6D52-FFA9-4350-8E36-A22A2A4A8B88}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ShippingProviderCostHelper</RootNamespace>
-    <AssemblyName>ShippingProviderCostHelper</AssemblyName>
+    <RootNamespace>ShippingCostsDotNet</RootNamespace>
+    <AssemblyName>ShippingCostsDotNet</AssemblyName>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -140,7 +140,7 @@
       <CachedDynamicPropName>
       </CachedDynamicPropName>
       <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
-      <CachedSettingsPropName>ShippingProviderCostHelper_RateServiceWebReference_RateService</CachedSettingsPropName>
+      <CachedSettingsPropName>ShippingCostsDotNet_RateServiceWebReference_RateService</CachedSettingsPropName>
     </WebReferenceUrl>
   </ItemGroup>
   <ItemGroup>
