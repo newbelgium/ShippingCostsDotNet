@@ -1,3 +1,5 @@
+# ARCHIVED
+
 # DotNetShipping
 
 [![Build status](https://ci.appveyor.com/api/projects/status/lom3p3jvvf4e9j3r?svg=true)](https://ci.appveyor.com/project/kylewest/dotnetshipping)
